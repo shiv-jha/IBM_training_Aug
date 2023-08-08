@@ -153,6 +153,14 @@ Merged cross branch in local
 8th Aug
 git pull 
 always pull before you push
+same file chamges in server and local
+ address git conflict and than merge
+ 
+Added contributors to repo
+contributors added own file via push and received other members file via pull
+
+server one branch -> other branch via pull request
+
 
 
 
