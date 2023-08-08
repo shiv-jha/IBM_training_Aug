@@ -161,6 +161,37 @@ contributors added own file via push and received other members file via pull
 
 server one branch -> other branch via pull request
 
+major proble to solve:
+Addressing same file altered by multiple team members
+Code review approval process
+protect the branch
+
+
+
+local changes to server:
+git add , git commit , git push
+
+server changes to local:
+git pull
+
+changes in local and server both but in diff files:
+git add , git commit , git pull , git push
+
+changes in local and server both in same files:
+git add, git commit , git pull - it show the error
+update local files and save what you needed
+git add , git commit , git pull and git push
+
+local hanges one branch to other brnaches
+git merge
+
+serve change one branch to other branch
+Pull request
+
+
+
+
+
 
 
 
