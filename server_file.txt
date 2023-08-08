@@ -1,4 +1,0 @@
-This is from Server side
-File is edited
-edited from local
-Editing from server

@@ -1,0 +1,179 @@
+1. Installation of java - Done
+2. Set Path variable - Done
+3. Install Eclipse - Done
+4. Open eclipse - Done
+5. Create java project - Done
+6. Add package and class into it - Done
+7. Run the class and confirm its printing
+8. Some theory on java
+9. what is class & object
+10.data type & varibales
+11.calling methods via object
+12. control statement
+13. if , if-else , switch
+14.looping-for ,while,do while , for each
+15.arrays
+16. string and its manipulation
+17. array limitations
+18. Arraylist
+19. Scanner
+20.Hashset
+21.Hashmap
+22.Exception handling
+23. Access modifiers- private,public,protected,default 
+24.inheritence
+23. mysql downloaded and installed
+24.ddl,dml
+25. create,insert,alter,select,order by, group by , join
+26. java + mysql setup and program on select query
+27. inner join,left join , right join , full join using union
+28. performing join query from java 
+29. adding constrant into table using sql
+30.create ,update,insert,retrive using java+mysql
+31. junit -why,what ,how
+32. junit first program , asserts,hooks(before,beforeclass,after,afterclass)
+33. junit test suite
+34. junit test runner- counts, failure tracking
+35. python introduction
+36. python download,installation and path setup
+37. pycharm download and installation
+38. some basic python program with idle
+39.launched and created hellowworld program in pycharm
+40. Automatic data type
+41. List - all related method for fetching ,sorting , if and looping with list
+42. Some exercise with list
+43. tuple and related method , tuple-list conversion
+44. some ercixe with list and tuple
+45.set and related program
+46. Dictionary and related program
+47. Functions
+48. Module
+49. Lambda simple use case
+50. lambda with if else
+51. regex
+52. constructor
+53. scope
+54. class object
+55. exception handling
+56. file handling and one hands on
+57. why ,what and how - automation,selenium,selenium with java
+58. what ,where and test data for automation
+59. importance of unique identification
+60. Completed setup for selenium
+61. Able to launch chrome and close it
+62. Able to find element
+63. Detailed overview on object identification
+64. Discussed seven golden rule for xpath and did hands on
+65. wrote automation for :- text,select,button,checkbox,radio,alert,ouse hover,link, webtable
+21st
+66. cucmber -why ,what and How
+67. handson with all basic features
+68. Tag , runner,stepdefintions,parameterisation
+
+24th
+69. Why API?
+70.download & install soap UI
+71. wsdl
+72. handson with soap UI
+
+25th
+73. rest api & http
+74. rest api with soap ui
+75.get/post  with diff types of assertions
+76. basic auth based
+
+26th
+77. Restassured setup with json parser
+78. Program to call rest api(get) via restassured
+79. fetch headers and body os response of restapi
+
+27th
+80. Rest assured and json parsing with complex logic
+81. Basic authentication with rest assured
+82. chaining the restassured request
+
+28th
+83. Restassured post api
+84. why appium and why browserstack
+85. created account in browserstack and verified details
+86. Set up of eclipse project for appium
+87. installed appium server and appium inspector
+
+1st Aug
+88. Appium code to run app and launch in browser stack
+89. Appium inspector- Added all capabilities
+90. Tap by cordinate , inspect element by source, search element with locator
+91. performed tap with selected element to verify it works
+92. Performed get text and click action with appium automation
+
+2nd Aug
+93. Performed findelements to get count of section and performed looping on it
+94. Created efficient xpath using appium inspector
+95. Launched new app wikipedia
+96. Entered some text in search box of wikipedia after click action
+
+3rd Aug
+96. Click 
+97. Clear text
+98. verification using junit/testng
+99. Setup of monbile automation in junit/testng framework
+
+4th Aug
+100. IOS app setup in browserstack and appium inspector
+101. Object identification of ios in inspector
+102. performed click,settext, veify text
+103. converted code into framework-utilities
+
+7th Aug
+Git introductio-why , what and how?
+Git client installation
+Git server setup and repo creation
+
+Command:
+git clone
+Git branch
+Git status
+git add
+git commit
+git push
+git global config
+git log
+git checkout
+git merge
+
+Same branch
+cloned server->local
+pushed local addition to server
+pushed local updates to server
+
+cross branch
+Pushed cross branch to server
+Merged cross branch in local
+
+8th Aug
+git pull 
+always pull before you push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bs://60451c15c13d06775b28fc44eebe03352e2156ef
+
+LyXM39N8vFhyFefbbXcy
+
+wikipedia path
+bs://1c798e1d1bf510dbf1c6e25cfc4f678a60c83624
+
+
+
+
