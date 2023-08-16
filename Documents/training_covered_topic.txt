@@ -1,4 +1,4 @@
-1. Installation of java - Done
+1. Installation of java - Done  
 2. Set Path variable - Done
 3. Install Eclipse - Done
 4. Open eclipse - Done
@@ -19,7 +19,7 @@
 19. Scanner
 20.Hashset
 21.Hashmap
-22.Exception handling
+22.Exception handling - try , catch, throw, throws , finally
 23. Access modifiers- private,public,protected,default 
 24.inheritence
 23. mysql downloaded and installed
@@ -63,7 +63,7 @@
 61. Able to launch chrome and close it
 62. Able to find element
 63. Detailed overview on object identification
-64. Discussed seven golden rule for xpath and did hands on
+64. Discussed seven golden rule for xpath and did hands on - 
 65. wrote automation for :- text,select,button,checkbox,radio,alert,ouse hover,link, webtable
 21st
 66. cucmber -why ,what and How
@@ -129,6 +129,7 @@ Git introductio-why , what and how?
 Git client installation
 Git server setup and repo creation
 
+
 Command:
 git clone
 Git branch
@@ -161,10 +162,6 @@ contributors added own file via push and received other members file via pull
 
 server one branch -> other branch via pull request
 
-major proble to solve:
-Addressing same file altered by multiple team members
-Code review approval process
-protect the branch
 
 
 
@@ -182,36 +179,90 @@ git add, git commit , git pull - it show the error
 update local files and save what you needed
 git add , git commit , git pull and git push
 
-local hanges one branch to other brnaches
+local changes from one branch to other brnaches
 git merge
 
 serve change one branch to other branch
 Pull request
 
 
+9th Aug
+
+major problem to solve:
+
+Addressing same file altered by multiple team members
+  Added changes to specific branch
+  Resolved conflict while creating Pull request
+  merged to base branch with approval in place
+  
+  
+Code review approval process
+	approve
+	reject-request changes
+	comment
+
+protect the branch
+ By adding number of approver
+ By locking the branch
+
+10 Aug
+Jenkins
+Why Jenkins?
+Automation run scheduling
+Continuos deployment
+CI/CD - jenkins
+
+One line-> Source control push -> Jenkins will build -> create Artifact -> will upload artifact (docker)/cloud -> Will trigger automation run-
+passed test-> deployment -> mail triggers
+failed test -> deployment stops -> mail triggers to team
+
+jenkins download & install with required plugin
+jenkins-build environemnt,build trigger, source ,build step, post build action
+created job to run simple helloWorld java program
 
 
 
+11th Aug
+mvn setup in local
+git hub access token
+git hub integration with jenkins for private and public repo
+mvn test from command prompt
+global tool config for git and mvn
+integration of jenkins selenium junit git hub 
+jenkins build step as mvn target
+build trigger and post build action with other project
+git hub upload your localm project to repo from scratch
+
+14th Aug
+Jenkins triggers
+Build peridically -all ottions and hands on with per minute
+conducted exam
+discussed all the questions and probable answers
+Why Jira?
+
+QC -> ALM 
+Jira - Rally
+Selenium framework:
+Keyword driven -
+Data Driven- 
+Hybrid
+POM model
+
+
+Last day plan: 16th Aug
+jira handson
+selenium -Windowhandles  - 
+selenium -nested frames - 
+Recap of all
+Sharing of any resources
+End note
 
 
 
+java,junit,sql,sql with java , soap ,rest ,soap UI, rest assured ,python , selenium ,cucmber,  appium 
+browserstack, git ,jenkins , jira
 
 
-
-
-
-
-
-
-
-
-
-bs://60451c15c13d06775b28fc44eebe03352e2156ef
-
-LyXM39N8vFhyFefbbXcy
-
-wikipedia path
-bs://1c798e1d1bf510dbf1c6e25cfc4f678a60c83624
 
 
 
